@@ -1,0 +1,6 @@
+crewai
+crewai-tools
+python-dotenv
+litellm
+streamlit
+json-repair

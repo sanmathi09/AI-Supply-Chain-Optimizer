@@ -1,0 +1,258 @@
+[
+  {
+    "route_name": "Suez Canal",
+    "location": "Egypt",
+    "region": "Middle East / North Africa",
+    "product_categories": [
+      "Crude Oil & Refined Petroleum",
+      "Consumer Electronics",
+      "Apparel & Textiles",
+      "Automotive Parts",
+      "Industrial Chemicals"
+    ],
+    "annual_volume_notes": "Handles approximately 12-15% of global maritime trade and ~30% of global container ship traffic, linking the Mediterranean to the Red Sea.",
+    "typical_disruption_causes": [
+      "Vessel groundings and waterway blockages",
+      "Geopolitical conflicts and regional missile threats",
+      "Canal authority toll tariff disputes",
+      "Sandstorms causing low visibility and strong winds"
+    ]
+  },
+  {
+    "route_name": "Strait of Malacca",
+    "location": "Between Malaysia, Singapore, and Indonesia",
+    "region": "Southeast Asia",
+    "product_categories": [
+      "Crude Oil & Liquefied Natural Gas (LNG)",
+      "Semiconductors & Electronic Components",
+      "Palm Oil & Agricultural Commodities",
+      "Raw Minerals & Ores",
+      "Automotive Components"
+    ],
+    "annual_volume_notes": "Primary sea route connecting the Indian and Pacific Oceans; over 85,000 vessels transit annually, representing roughly 25% of global traded merchandise.",
+    "typical_disruption_causes": [
+      "Piracy, armed robbery, and maritime crime",
+      "Severe haze and smog from regional seasonal fires reducing visibility",
+      "Collisions and grounding risks in narrow, shallow channels (e.g., Phillips Channel)",
+      "Vessel traffic congestion"
+    ]
+  },
+  {
+    "route_name": "Panama Canal",
+    "location": "Panama",
+    "region": "Central America",
+    "product_categories": [
+      "Grains & Agricultural Bulk (Soybeans, Corn)",
+      "Liquefied Petroleum Gas (LPG) & LNG",
+      "Containerized Retail Goods",
+      "Chemical Fertilizers",
+      "Coal & Minerals"
+    ],
+    "annual_volume_notes": "Transits around 5% of global maritime commerce, connecting Atlantic and Pacific Oceans; vital corridor for US Gulf Coast exports to Asia.",
+    "typical_disruption_causes": [
+      "Drought and freshwater deficits in Gatun Lake restricting draft depths and daily slots",
+      "Bottlenecks and extended waiting times for non-booked vessels",
+      "Maintenance lock outages and operational restrictions"
+    ]
+  },
+  {
+    "route_name": "Strait of Hormuz",
+    "location": "Between Oman and Iran",
+    "region": "Middle East",
+    "product_categories": [
+      "Crude Oil",
+      "Liquefied Natural Gas (LNG)",
+      "Refined Petroleum Products (Naphtha, Diesel)",
+      "Petrochemical Precursors"
+    ],
+    "annual_volume_notes": "The world's most critical petroleum transit chokepoint; processes over 20-21 million barrels of oil per day (roughly 20-25% of global petroleum consumption).",
+    "typical_disruption_causes": [
+      "Military conflicts and geopolitical skirmishes",
+      "State-sponsored vessel seizures and naval harassment",
+      "Naval mines and unmanned aerial vehicle (UAV) strikes",
+      "Electronic navigation interference and GPS spoofing"
+    ]
+  },
+  {
+    "route_name": "Bab el-Mandeb Strait",
+    "location": "Between Djibouti, Yemen, and Eritrea",
+    "region": "Red Sea / Horn of Africa",
+    "product_categories": [
+      "Crude Oil & Jet Fuel",
+      "Containerized Consumer Goods",
+      "Automobiles & Machinery",
+      "Fertilizers & Chemicals",
+      "Grain & Food Cargo"
+    ],
+    "annual_volume_notes": "Crucial gatekeeper to the southern Red Sea and Suez Canal, carrying approximately 6.2 million barrels per day of crude and refined petroleum along with high container volumes.",
+    "typical_disruption_causes": [
+      "Missile, drone, and waterborne explosive attacks by regional non-state actors",
+      "Regional warfare spillover",
+      "Commercial fleet diversions around Africa leading to route desertion"
+    ]
+  },
+  {
+    "route_name": "Port of Shanghai",
+    "location": "Shanghai, China",
+    "region": "East Asia",
+    "product_categories": [
+      "Consumer Electronics",
+      "Industrial Machinery & Robotics",
+      "Photovoltaic (Solar) Panels & Clean Tech",
+      "Electric Vehicles & Lithium-Ion Batteries",
+      "Apparel, Footwear & Home Goods"
+    ],
+    "annual_volume_notes": "The world's busiest container port for over a decade, handling upwards of 47 million TEUs annually.",
+    "typical_disruption_causes": [
+      "Severe typhoons and summer storm surges in the Yangtze River delta",
+      "Epidemic quarantine restrictions and port worker shortages",
+      "Terminal yard congestion and container chassis deficits",
+      "Customs inspection backlogs"
+    ]
+  },
+  {
+    "route_name": "Port of Singapore",
+    "location": "Singapore",
+    "region": "Southeast Asia",
+    "product_categories": [
+      "Transshipment Retail Containers",
+      "Marine Bunker Fuel & Refined Distillates",
+      "High-Value Electronics",
+      "Pharmaceuticals & Medical Devices",
+      "Perishable Cold-Chain Foodstuffs"
+    ],
+    "annual_volume_notes": "World's top container transshipment port and largest marine bunkering hub, processing over 38-39 million TEUs per year.",
+    "typical_disruption_causes": [
+      "Upstream schedule disruptions cascading into intense yard storage pileups",
+      "Bunker fuel supply contamination scares",
+      "Monsoonal squalls and adverse maritime sea states"
+    ]
+  },
+  {
+    "route_name": "Port of Rotterdam",
+    "location": "Rotterdam, Netherlands",
+    "region": "Western Europe",
+    "product_categories": [
+      "Petrochemicals & Base Chemicals",
+      "Crude Oil, Biofuels & LNG",
+      "Iron Ore, Scrap & Metallurgy Coals",
+      "Fresh Produce & Agricultural Imports",
+      "Consumer Goods & Automotive Imports"
+    ],
+    "annual_volume_notes": "Largest seaport in Europe, handling roughly 440 million metric tons of goods and over 14 million TEUs each year.",
+    "typical_disruption_causes": [
+      "Labor strikes and dockworker wage disputes",
+      "Low water levels on the River Rhine preventing inland barge transport",
+      "Severe North Sea gales and tidal surges",
+      "Customs bottlenecks and terminal IT/cyber incidents"
+    ]
+  },
+  {
+    "route_name": "Port of Los Angeles",
+    "location": "California, United States",
+    "region": "North America (West Coast)",
+    "product_categories": [
+      "Furniture & Home Fixtures",
+      "Electronics & Home Appliances",
+      "Clothing, Footwear & Fashion Accessories",
+      "Toys & Recreational Goods",
+      "Auto Components & Replacement Parts"
+    ],
+    "annual_volume_notes": "Primary maritime gateway for US-transpacific container trade, handling 9-10 million TEUs individually and nearly 19 million TEUs combined with Long Beach.",
+    "typical_disruption_causes": [
+      "Longshoremen union contract negotiation impasses and labor slowdowns",
+      "Shortages of intermodal truck chassis and railcar availability",
+      "Seasonal import peak volume spikes leading to anchorage queues",
+      "Stricter environmental clean-truck and emissions mandate transitions"
+    ]
+  },
+  {
+    "route_name": "Port of Antwerp-Bruges",
+    "location": "Belgium",
+    "region": "Western Europe",
+    "product_categories": [
+      "Plastics, Polymers & Specialty Chemicals",
+      "Finished Vehicles (Ro-Ro Automotive)",
+      "Pharmaceuticals & Temperature-Sensitive Cargo",
+      "Steel, Steel Coils & Non-Ferrous Metals",
+      "Refrigerated Perishables"
+    ],
+    "annual_volume_notes": "Europe's second-largest container port and host to Europe's largest petrochemical cluster, processing over 270-290 million tons of cargo annually.",
+    "typical_disruption_causes": [
+      "National and port-specific general strikes",
+      "Navigation restrictions and tidal limitations on the Western Scheldt river",
+      "Environmental regulations impacting inland transportation"
+    ]
+  },
+  {
+    "route_name": "Bosphorus Strait",
+    "location": "Istanbul, Turkey",
+    "region": "Southern Europe / Western Asia",
+    "product_categories": [
+      "Grains (Wheat, Barley, Sunflower Oil)",
+      "Crude Oil & Refined Fuels",
+      "Raw Steel, Pig Iron & Scrap Metal",
+      "Mineral Fertilizers"
+    ],
+    "annual_volume_notes": "Crucial corridor linking the Black Sea to the Sea of Marmara and Mediterranean; over 40,000 vessels transit annually, crucial for global food security.",
+    "typical_disruption_causes": [
+      "Regional warfare in the Black Sea (naval mines, embargoes, weaponized blockades)",
+      "Narrow channels and tricky currents causing vessel engine failure groundings",
+      "Dense fog and adverse weather forcing one-way or suspended transit",
+      "Turkish maritime regulation and escort requirements"
+    ]
+  },
+  {
+    "route_name": "Cape of Good Hope Sea Route",
+    "location": "South Africa",
+    "region": "Sub-Saharan Africa / South Atlantic & Indian Ocean",
+    "product_categories": [
+      "Rerouted Consumer Electronics & Fast Fashion",
+      "Crude Oil & Refined Products on VLCCs",
+      "Bulk Commodities (Iron Ore, Coal)",
+      "Manufactured Goods & Vehicles"
+    ],
+    "annual_volume_notes": "Major alternative maritime route bypass whenever Suez or Red Sea transits face hazards; extends Asia-Europe transit by 10-14 days.",
+    "typical_disruption_causes": [
+      "Severe Southern Ocean winter storms, high swells, and rogue waves",
+      "Lack of nearby deep-water bunkering, refueling, and ship repair hubs",
+      "Bunker fuel cost spikes due to longer sailing distance"
+    ]
+  },
+  {
+    "route_name": "Port of Busan",
+    "location": "Busan, South Korea",
+    "region": "East Asia",
+    "product_categories": [
+      "Semiconductors & Memory Chips",
+      "Automobiles & Heavy Machinery",
+      "Consumer Electronics & Display Panels",
+      "Industrial Polymers & Chemicals",
+      "Processed Metals & Steel Plates"
+    ],
+    "annual_volume_notes": "Sixth busiest container port in the world and key Northeast Asian transshipment center, handling over 22 million TEUs annually.",
+    "typical_disruption_causes": [
+      "Summer and autumn typhoons causing maritime shutdowns",
+      "Domestic unionized trucker walkouts and logistics strikes",
+      "Geopolitical and security tensions in the surrounding East Asian seas"
+    ]
+  },
+  {
+    "route_name": "Strait of Gibraltar",
+    "location": "Between Spain, Gibraltar, and Morocco",
+    "region": "Mediterranean / Atlantic Entrance",
+    "product_categories": [
+      "Intercontinental Container Cargo",
+      "Crude Oil & Petroleum Clean Products",
+      "Fresh Agricultural Produce from North Africa & Mediterranean",
+      "Manufactured Vehicles & Heavy Equipment"
+    ],
+    "annual_volume_notes": "Critical narrow waterway connecting the Atlantic Ocean with the Mediterranean Sea, accommodating over 100,000 vessel movements per year.",
+    "typical_disruption_causes": [
+      "Intense naval and merchant traffic congestion causing collision hazards",
+      "Heavy easterly gales ('Levante') and thick fog banks",
+      "Localized marine mammal interactions causing rudder damage to smaller vessels",
+      "Coastguard interdiction and customs inspection delays"
+    ]
+  }
+]

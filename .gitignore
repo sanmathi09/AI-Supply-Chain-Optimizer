@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Environment Configuration
+.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated cache
+cache/
